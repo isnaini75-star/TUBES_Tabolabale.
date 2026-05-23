@@ -1,0 +1,10 @@
+{
+  "name": "incess",
+  "version": "1.0",
+  "authors": ["Tabolabale"],
+  "description": "Bot akan mengunci dan mendekati musuh, kemudian menembak menggunakan bullet damage yang maksimum. ",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}
